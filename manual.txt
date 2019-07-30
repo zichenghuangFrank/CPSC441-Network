@@ -1,0 +1,43 @@
+                                CPSC441 Assignment1 manual 
+
+                                Name: Zicheng Huang 
+
+                                UCID: 30009205 
+
+                                Tutorial: T02 
+
+How to compile: 
+
+    Open the Linux system terminal. 
+
+    Input command line “gcc proxy.c -o proxy’ and then press enter. 
+
+How to configure: 
+
+    Using the university computer, open the Firefox and go to the Preferences. 
+
+    Find the network proxy and choose settings. 
+
+    Then choose the HTTP proxy and input “localhost” into the first block. 
+
+    Input the port number (between 8000 and 9000). 
+
+    Input command line “./proxy” in the terminal to run this proxy. 
+
+    Enter the port number as same as the previous in the network proxy. 
+
+    Enter the 0 or 1 to choose whether you want the multi-thread or not. 
+
+    Enter the number of spelling errors you want (normally about 5). 
+
+    Then go back to the Firefox and open a new tab for the test page (if you have   already opened the test page then refresh the test page (using ctrl + shift + R)). 
+
+Test process: 
+
+    I do the test by using university computer in CPSC lab and its system is Linux and use the Firefox as the web browser. And the test page            is just like “pages.cpsc.ucalgary.ca/~carey/CPSC441/test1.html” and other test cases the professor give me.  
+
+Bonus part: 
+
+    Create the multi-thread after accepting the connection if the user chooses the multi-thread. 
+
+    Thank you for reading!
